@@ -3,7 +3,7 @@
 Contributing to this repository means helping out keeping all the config files up to date.
 We're assuming that you do this because you use the Docker image `haugene/transmission-openvpn` and
 you're lacking some configs or you want to update them because the provider has changed them.
-All other uses of this repo is concidered "special interest" for now and will not be covered here.
+All other uses of this repo is considered "special interest" for now and will not be covered here.
 
 Previously this was a bit more tricky because the configs lived in the main repo and you had to get your
 configs into that repo to test them - and verify that they worked.
