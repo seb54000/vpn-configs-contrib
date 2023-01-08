@@ -4,7 +4,7 @@ This repository is a support-repo for: https://github.com/haugene/docker-transmi
 It is an effort to separate the development and maintenance of that project and the
 VPN configs it relies on.
 
-The split is thought to have multiple benefits. It will reduce noice in the main project and
+The split is thought to have multiple benefits. It will reduce noise in the main project and
 hopefully create a meaningful separation that can make it easier to test changes in configs and contribute to keep the providers up to date.
 
 ## Use your own config
